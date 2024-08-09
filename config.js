@@ -43,6 +43,6 @@ global.mess = {
 };
 
 global.limitawal = {
-    premium: 'Infinity',
+    premium: 'Imalka-MD&Rb5U32Zv',
     free: 10
 };
